@@ -1,6 +1,6 @@
 # personal-daily-digest
 
-> 面向算法工程师的个人 AI 情报日报 Skill，为 MyFlicker 智能助手设计。
+> 面向算法工程师的个人 AI 日报 Skill，为 MyFlicker 智能助手设计。
 
 ## 功能概述
 
@@ -65,7 +65,7 @@ personal-daily-digest/
 | 6 | 关键词过滤 + 打分排序（推荐/检索/大模型优先） |
 | 7 | 按模板生成完整日报 Markdown |
 | 8 | 写入快手 Docs |
-| 9 | 发 KIM 卡片给三个人（guanyalong / chenxiang08 / xiaohaoke） |
+| 9 | 发 KIM 卡片给个人/群组 |
 | 10 | 追加本次入选条目到去重注册表 |
 | 11 | 本地归档至 `daily-digest/archive/YYYY-MM-DD/` |
 
@@ -119,9 +119,7 @@ personal-daily-digest/
 ## 定时任务
 
 每天 09:00（Asia/Shanghai）自动执行，推送给：
-- 关亚龙（`username:guanyalong`）
-- 陈祥（`username:chenxiang08`）
-- 肖浩科（`username:xiaohaoke`）
+xxx
 
 ---
 
