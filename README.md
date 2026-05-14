@@ -8,7 +8,7 @@
 
 以下是一份真实生成的日报示例（2026-05-14）：
 
-![日报效果预览](assets/preview/daily_report_page1.png)
+![日报效果预览](assets/preview/pages1.png)
 
 **日报包含：**
 - 🌟 **今日重点（S/A 级）**：腾讯混元 Hy3 登顶 OpenRouter、阿里云 AI 营收连续三位数增长等热点
