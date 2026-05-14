@@ -1,0 +1,9 @@
+{
+  "name": "personal-daily-digest",
+  "version": "0.1.0",
+  "ks-meta": {
+    "displayName": "个人技术情报日报",
+    "platform": ["MyFlicker-Work"],
+    "dependency": ["docs-shuttle"]
+  }
+}

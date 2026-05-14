@@ -1,0 +1,15 @@
+# 运行时状态文件
+dedup_registry.json
+archive/
+daily_report_*.md
+daily_report_final.md
+latest.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# 系统文件
+.DS_Store
